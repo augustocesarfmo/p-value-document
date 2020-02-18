@@ -10,7 +10,7 @@ Este documento traz uma visão mais aprofundada da fundamentação teórica por 
 
 ## Acessando o documento PDF
 
-O documento escrito pode ser acessado na raiz do projeto no arquivo chamando `p-value.pdf`.
+O documento escrito pode ser acessado na raiz do projeto no arquivo chamado `p-value.pdf`.
 
 ## Executando
 
