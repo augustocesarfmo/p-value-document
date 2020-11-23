@@ -6,7 +6,7 @@ Este documento traz uma visão mais aprofundada da fundamentação teórica por 
 
 - CASELLA, George; BERGER, Roger L. **Statistical inference**. Pacific Grove: Duxbury, 2002.
 - LIMA, Elon Lages. **Curso de Análise vol. 1–15a edição**. Rio de Janeiro: IMPA–Projeto Euclides, 2019.
-- MAGALHÃES, Marcos Nascimento. **Probabilidade e variáveis aleatórias**. Sa ̃o Paulo: Edusp, 2015.
+- MAGALHÃES, Marcos Nascimento. **Probabilidade e variáveis aleatórias**. São Paulo: Edusp, 2015.
 
 ## 📑 Acessando o documento .pdf
 
