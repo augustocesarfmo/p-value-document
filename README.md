@@ -8,11 +8,11 @@ Este documento traz uma visão mais aprofundada da fundamentação teórica por 
 - LIMA, Elon Lages. **Curso de Análise vol. 1–15a edição**. Rio de Janeiro: IMPA–Projeto Euclides, 2019.
 - MAGALHÃES, Marcos Nascimento. **Probabilidade e variáveis aleatórias**. Sa ̃o Paulo: Edusp, 2015.
 
-## Acessando o documento PDF
+## 📑 Acessando o documento .pdf
 
 O documento escrito pode ser acessado na raiz do projeto no arquivo chamado `p-value-document.pdf`.
 
-## Executando
+## ℹ️ Executando
 
 Na sua linha de comando execute:
 
@@ -23,6 +23,14 @@ $ git clone https://github.com/augustocesarfmo/p-value-document
 
 Após clonar o repositório, importe para o TeXstudio ou Overleaf para possíveis edições.
 
+## 📝 Licença
+
+Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/fradeneto/devradar-mobile/blob/master/LICENSE) para obter mais informações.
+
 ---
 
-by Augusto César
+by Augusto César Oliveira 👐🏼
+
+[nodejs]: https://nodejs.org/
+[yarn]: https://yarnpkg.com/
+[vc]: https://code.visualstudio.com/
