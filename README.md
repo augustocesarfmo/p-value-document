@@ -25,7 +25,7 @@ Após clonar o repositório, importe para o TeXstudio ou Overleaf para possívei
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/fradeneto/p-value-document/blob/master/LICENSE) para obter mais informações.
+Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/augustocesarfmo/p-value-document/blob/master/LICENSE) para obter mais informações.
 
 ---
 
