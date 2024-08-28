@@ -14,6 +14,8 @@ O documento escrito pode ser acessado na raiz do projeto no arquivo chamado `p-v
 
 ## ℹ️ Executando
 
+Para clonar e executar este projeto, você precisará de [Git](https://git-scm.com) instalado no seu computador.
+
 Na sua linha de comando execute:
 
 ```bash
